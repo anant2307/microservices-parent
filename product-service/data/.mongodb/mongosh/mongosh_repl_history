@@ -1,0 +1,23 @@
+});
+  ]
+    { role: 'dbOwner', db: 'product-service' }
+  roles: [
+  pwd: 'naman@2307',
+  user: 'root',
+db.createUser({
+use admin
+exit
+SELECT * from; product-servic
+SELECT * from product-servic
+select * from product-service;
+show tables;
+use product-service
+show dbs;
+use admin
+exit
+show dbs
+exit
+mongosh --v
+mongosh --version
+mongo --version
+show databases;
